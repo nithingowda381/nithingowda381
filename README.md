@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nithin Gowda M S</h1>
-- 🔭 I’m currently working on** Dvr Automation**
+- 🔭 I’m currently working on Dvr Automation
 
 - 🌱 I’m currently learning **CYBERSECURITY**
 
-- 👨‍💻 All of my projects are available at [sites.google.com/view/nithingowdru](sites.google.com/view/nithingowdru)
 
 - 📫 How to reach me **nithingowda381@gmail.com**
 
