@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nithin Gowda M S</h1>
-- 🔭 I’m currently working on **CROP MANAGEMENT WEBSITE**
+- 🔭 I’m currently working on** Dvr Automation**
 
 - 🌱 I’m currently learning **CYBERSECURITY**
 
